@@ -1,0 +1,35 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html
+{
+    background: #1e1a20;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+
+.section
+{
+    align-items: center;
+    height: 100vh;
+    /* position: relative; */
+    /* color: #ffeded; */
+    will-change: transform;
+}
+
+/* section:nth-child(odd)
+{
+    justify-content: flex-end;
+} */
+.selectable-text {
+    pointer-events: auto;
+}
