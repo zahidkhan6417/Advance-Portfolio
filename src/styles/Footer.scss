@@ -3,13 +3,16 @@
 @import "../Global/typhography.scss";
 
 footer {
-  background-color: #2d2e32;
+ // background-color: #2d2e32;
+  background-color: rgba(45, 46, 50, 0.4  ); /* Color with 50% transparency */
+  //opacity: 0.6;
   padding: 5rem 0;
   width: 100%;
 
   h3 {
     font-size: $text-size;
     color: white;
+   // font-weight: bold;
   }
 }
 
@@ -17,6 +20,7 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 
   @media (max-width: 550px) {
     flex-wrap: wrap;

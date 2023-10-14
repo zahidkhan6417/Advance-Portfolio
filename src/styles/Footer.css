@@ -60,7 +60,7 @@ body {
 }
 
 footer {
-  background-color: #2d2e32;
+  background-color: rgba(45, 46, 50, 0.4); /* Color with 50% transparency */
   padding: 5rem 0;
   width: 100%;
 }

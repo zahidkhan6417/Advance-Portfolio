@@ -3,7 +3,6 @@ import * as THREE from 'three'; // Import Three.js if needed
 import gsap from 'gsap'; // Import GSAP
 import "./styles.css"
 
-import Navbar from '../Components/Navbar'
 import HomePage from "../Components/HomePage"
 import About from '../Components/About'
 import Projects from '../Components/Projects'
@@ -218,13 +217,13 @@ function GsapIntegration() {
         <div>
             <canvas className="webgl"></canvas>
 
-            <section class="section">
-            {/* <Navbar /> */}
-            <HomePage />
-            <About />
-            <Projects />
-            <Contact />
-            {/* <Footer />             */}
+            <section className="section">
+                <HomePage />
+                <About />
+                <Projects />
+                <Contact />
+                <Footer />
+
             </section>
 
    

@@ -7,6 +7,7 @@
 html
 {
     background: #1e1a20;
+    
 }
 
 .webgl
@@ -22,14 +23,16 @@ html
     align-items: center;
     height: 100vh;
     /* position: relative; */
-    /* color: #ffeded; */
+    color: #ffeded;
     will-change: transform;
+    /* background-color: #2d2e32; */
+
 }
 
-/* section:nth-child(odd)
+ section:nth-child(odd)
 {
     justify-content: flex-end;
-} */
+}
 .selectable-text {
     pointer-events: auto;
 }

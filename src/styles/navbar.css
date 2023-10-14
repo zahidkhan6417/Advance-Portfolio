@@ -134,6 +134,7 @@ nav {
   display: flex;
   justify-content: space-between;
   position: fixed;
+  background-color: rgba(45, 46, 50, 0.4); /* Color with 50% transparency */
   top: 0;
   left: 0;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.09);
