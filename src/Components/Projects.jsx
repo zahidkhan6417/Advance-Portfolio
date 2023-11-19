@@ -1,5 +1,6 @@
 import RecipeBook from "../Image/RecipeBook.png"
 import CodepenClone from "../Image/codepen-clone.png"
+import Bloggy from "../Image/Bloggy.png"
 import ProBox from "./ProBox"
 import "../styles/Project.css"
 
@@ -30,7 +31,18 @@ function Projects() {
                 techno1="React"
                 techno2="CSS"
                 code="https://github.com/zahidkhan6417/Codepen-Clone-Using-React"
+                demo="https://github.com/zahidkhan6417/Codepen-Clone-Using-React"
                 scrollY="-74%"
+              />
+              <ProBox
+                title="Bloggy"
+                img={Bloggy}
+                description="Bloggy is a dynamic and user-centric blogging platform designed to foster meaningful discussions and share captivating stories. With an intuitive interface and a diverse range of topics, Bloggy empowers writers and readers alike."
+                techno1="React"
+                techno2="SCSS"
+                code="https://github.com/zahidkhan6417/Bloggy.git"
+                demo="https://github.com/zahidkhan6417/Bloggy.git"
+                scrollY="-83%"
               />
             </div>
           </div>
