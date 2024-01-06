@@ -1,6 +1,7 @@
 import RecipeBook from "../Image/RecipeBook.png"
 import CodepenClone from "../Image/codepen-clone.png"
 import Bloggy from "../Image/Bloggy.png"
+import nikestore from "../Image/nike-store.png"
 import ProBox from "./ProBox"
 import "../styles/Project.css"
 
@@ -22,6 +23,18 @@ function Projects() {
                 techno2="SCSS"
                 code="https://github.com/zahidkhan6417/Recipe-Book-using-React.Js"
                 demo="https://recipe-book-by-zahid.vercel.app/"
+                scrollY="-83%"
+              />
+              <ProBox
+                title="Nike-Store"
+                img={nikestore}
+                description="I developed a dynamic Nike-themed website using Next.js. Through this project, I showcased
+                proficiency in full-stack development, employing React and Next.js for the frontend interface and
+                Strapi(Headless Cms) for backend technologies to manage data and user experiences."
+                techno1="Next.js"
+                techno2="Tailwind"
+                code="https://github.com/zahidkhan6417/Nike-Store-Frontend"
+                demo="https://nike-store-rosy-kappa.vercel.app/"
                 scrollY="-83%"
               />
               <ProBox
