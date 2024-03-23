@@ -27,13 +27,15 @@ function About() {
         experience: [
             <ul>
                 <li className='skill_li'><span>2022 - Current</span><br /><br />Programmer at Cognizant India Pvt.ltd</li>
-                <li className='skill_li'><span>Achievement/Tasks</span><br /><br />Integrated web applications using JavaScript, Html, Css,and
-PEGA( Low code development tool ).<br /><br />Proficiently utilized React to transform the user interface(UI)
-within the PEGA platform<br /><br />Implemented dynamic interactions and enhanced
-responsiveness through React's component-based approach.<br /><br />Worked with Project Managers, Developers, Quality
-Assurance and customers to resolve technical issues.<br /><br />Proficient in Agile methodology, consistently delivering
-high-quality results through iterative development and
-effective team communication.
+                <li className='skill_li'><span>Project</span><br /><br />The application enables the Bank's strategy to transform customer service experience to drive
+higher customer satisfaction & efficiency across operation. The scope of this project is to provide new
+Loan and modify existing Loan.</li>
+                <li className='skill_li'><span>Responsibilities:</span><br /><br />Proficient in designing and developing Single Page Application using React, React-Router
+React-Redux.<br /><br />Develop and maintain small to medium sized features for our applications using Java technology<br /><br />Contributed and enhanced the user-friendly interfaces for Lian processes within banking
+applications.<br /><br />Integrated frontend interfaces with backend APIs and RESTful API, ensuring seamless data flow
+and functionality and understanding of OAuth.<br /><br />Experience in using SASS, BOOTSTRAP to enhance the user experience.<br /><br />Modified existing product software to debug and troubleshoot coding errors and write unit tests
+and participate in coding reviews.<br /><br />Proficient in Agile and Scrum methodology, consistently delivering end-to-end technical
+solutions to solve customer problems and provide security.<br /><br /> Used Git for Version Control System and for code management.<br /><br />
 </li>
             </ul>
         ],
