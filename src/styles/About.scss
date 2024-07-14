@@ -171,6 +171,16 @@ width: 100%;
     gap: 2.5rem;
     list-style: none;
 }
+// .skills img {
+//     width: 55px; /* Adjust this size according to the size of your icons */
+//     height: auto; /* Maintain aspect ratio */
+// }
+  
+.custom-skill {
+    /* Ensure the custom image has similar dimensions and styling */
+    width: 45px; /* Adjust this size to match other icons */
+    height: auto; /* Maintain aspect ratio */
+}
 
 .skills li {
     align-items: center;

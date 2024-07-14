@@ -10,11 +10,11 @@ function Hero() {
           <div className="content">
             <div className="hero-main">
               <div className="hero-text">
-                <h1>Front-End React Developer</h1>
+                <h1>Software Engineer</h1>
                 {/* <img src={Waving} alt="waving_hand" /> */}
                 <p>
-                  Hi, I'm Zahid Khan. A passionate Front-end React
-                  Developer based in Pune, India. 📍
+                  Hi, I'm Zahid Khan. A passionate
+                  Engineer based in Pune, India. 📍
                 </p>
                 <span>
                   <a

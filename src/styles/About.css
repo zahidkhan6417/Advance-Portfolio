@@ -188,6 +188,12 @@ width: 100%;
   list-style: none;
 }
 
+.custom-skill {
+  /* Ensure the custom image has similar dimensions and styling */
+  width: 45px; /* Adjust this size to match other icons */
+  height: auto; /* Maintain aspect ratio */
+}
+
 .skills li {
   align-items: center;
   background-color: #fff;
